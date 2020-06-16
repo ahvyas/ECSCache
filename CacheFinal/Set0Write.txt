@@ -1,0 +1,204 @@
+Input 0 Write Set: 0 Tag: 0 Offset: 0 Value: 0b101 Miss
+	Line 0 Tag 0 Age 0
+	Line 1 Tag None Age 2
+	Line 2 Tag None Age 1
+Input 1 Write Set: 0 Tag: 0 Offset: 1 Value: 0b110 Hit
+	Line 0 Tag 0 Age 0
+	Line 1 Tag None Age 2
+	Line 2 Tag None Age 1
+Input 2 Write Set: 0 Tag: 0 Offset: 3 Value: 0b111 Hit
+	Line 0 Tag 0 Age 0
+	Line 1 Tag None Age 2
+	Line 2 Tag None Age 1
+Input 3 Write Set: 0 Tag: 0 Offset: 3 Value: 0b1000 Hit
+	Line 0 Tag 0 Age 0
+	Line 1 Tag None Age 2
+	Line 2 Tag None Age 1
+Input 4 Write Set: 0 Tag: 2 Offset: 0 Value: 0b1001 Miss
+	Line 0 Tag 0 Age 1
+	Line 1 Tag 2 Age 0
+	Line 2 Tag None Age 2
+Input 5 Write Set: 0 Tag: 2 Offset: 1 Value: 0b1010 Hit
+	Line 0 Tag 0 Age 1
+	Line 1 Tag 2 Age 0
+	Line 2 Tag None Age 2
+Input 6 Write Set: 0 Tag: 2 Offset: 3 Value: 0b1011 Hit
+	Line 0 Tag 0 Age 1
+	Line 1 Tag 2 Age 0
+	Line 2 Tag None Age 2
+Input 7 Write Set: 0 Tag: 2 Offset: 3 Value: 0b1100 Hit
+	Line 0 Tag 0 Age 1
+	Line 1 Tag 2 Age 0
+	Line 2 Tag None Age 2
+Input 8 Write Set: 0 Tag: 4 Offset: 0 Value: 0b1101 Miss
+	Line 0 Tag 0 Age 2
+	Line 1 Tag 2 Age 1
+	Line 2 Tag 4 Age 0
+Input 9 Write Set: 0 Tag: 4 Offset: 1 Value: 0b1110 Hit
+	Line 0 Tag 0 Age 2
+	Line 1 Tag 2 Age 1
+	Line 2 Tag 4 Age 0
+Input 10 Write Set: 0 Tag: 4 Offset: 3 Value: 0b1111 Hit
+	Line 0 Tag 0 Age 2
+	Line 1 Tag 2 Age 1
+	Line 2 Tag 4 Age 0
+Input 11 Write Set: 0 Tag: 4 Offset: 3 Value: 0b10000 Hit
+	Line 0 Tag 0 Age 2
+	Line 1 Tag 2 Age 1
+	Line 2 Tag 4 Age 0
+Input 12 Write Set: 0 Tag: 6 Offset: 0 Value: 0b10001 Miss
+Evict line 0
+	Line 0 Tag 6 Age 0
+	Line 1 Tag 2 Age 2
+	Line 2 Tag 4 Age 1
+Input 13 Write Set: 0 Tag: 6 Offset: 1 Value: 0b10010 Hit
+	Line 0 Tag 6 Age 0
+	Line 1 Tag 2 Age 2
+	Line 2 Tag 4 Age 1
+Input 14 Write Set: 0 Tag: 6 Offset: 3 Value: 0b10011 Hit
+	Line 0 Tag 6 Age 0
+	Line 1 Tag 2 Age 2
+	Line 2 Tag 4 Age 1
+Input 15 Write Set: 0 Tag: 6 Offset: 3 Value: 0b10100 Hit
+	Line 0 Tag 6 Age 0
+	Line 1 Tag 2 Age 2
+	Line 2 Tag 4 Age 1
+Input 16 Write Set: 0 Tag: 8 Offset: 0 Value: 0b10101 Miss
+Evict line 1
+	Line 0 Tag 6 Age 1
+	Line 1 Tag 8 Age 0
+	Line 2 Tag 4 Age 2
+Input 17 Write Set: 0 Tag: 8 Offset: 1 Value: 0b10110 Hit
+	Line 0 Tag 6 Age 1
+	Line 1 Tag 8 Age 0
+	Line 2 Tag 4 Age 2
+Input 18 Write Set: 0 Tag: 8 Offset: 3 Value: 0b10111 Hit
+	Line 0 Tag 6 Age 1
+	Line 1 Tag 8 Age 0
+	Line 2 Tag 4 Age 2
+Input 19 Write Set: 0 Tag: 8 Offset: 3 Value: 0b11000 Hit
+	Line 0 Tag 6 Age 1
+	Line 1 Tag 8 Age 0
+	Line 2 Tag 4 Age 2
+Input 20 Write Set: 0 Tag: 10 Offset: 0 Value: 0b11001 Miss
+Evict line 2
+	Line 0 Tag 6 Age 2
+	Line 1 Tag 8 Age 1
+	Line 2 Tag 10 Age 0
+Input 21 Write Set: 0 Tag: 10 Offset: 1 Value: 0b11010 Hit
+	Line 0 Tag 6 Age 2
+	Line 1 Tag 8 Age 1
+	Line 2 Tag 10 Age 0
+Input 22 Write Set: 0 Tag: 10 Offset: 3 Value: 0b11011 Hit
+	Line 0 Tag 6 Age 2
+	Line 1 Tag 8 Age 1
+	Line 2 Tag 10 Age 0
+Input 23 Write Set: 0 Tag: 10 Offset: 3 Value: 0b11100 Hit
+	Line 0 Tag 6 Age 2
+	Line 1 Tag 8 Age 1
+	Line 2 Tag 10 Age 0
+Input 24 Read Set: 0 Tag: 0 Offset: 0 Value: 0b0 Miss
+Evict line 0
+	Line 0 Tag 0 Age 0
+	Line 1 Tag 8 Age 2
+	Line 2 Tag 10 Age 1
+Input 25 Read Set: 0 Tag: 0 Offset: 1 Value: 0b0 Hit
+	Line 0 Tag 0 Age 0
+	Line 1 Tag 8 Age 2
+	Line 2 Tag 10 Age 1
+Input 26 Read Set: 0 Tag: 0 Offset: 3 Value: 0b0 Hit
+	Line 0 Tag 0 Age 0
+	Line 1 Tag 8 Age 2
+	Line 2 Tag 10 Age 1
+Input 27 Read Set: 0 Tag: 0 Offset: 3 Value: 0b0 Hit
+	Line 0 Tag 0 Age 0
+	Line 1 Tag 8 Age 2
+	Line 2 Tag 10 Age 1
+Input 28 Read Set: 0 Tag: 2 Offset: 0 Value: 0b0 Miss
+Evict line 1
+	Line 0 Tag 0 Age 1
+	Line 1 Tag 2 Age 0
+	Line 2 Tag 10 Age 2
+Input 29 Read Set: 0 Tag: 2 Offset: 1 Value: 0b0 Hit
+	Line 0 Tag 0 Age 1
+	Line 1 Tag 2 Age 0
+	Line 2 Tag 10 Age 2
+Input 30 Read Set: 0 Tag: 2 Offset: 3 Value: 0b0 Hit
+	Line 0 Tag 0 Age 1
+	Line 1 Tag 2 Age 0
+	Line 2 Tag 10 Age 2
+Input 31 Read Set: 0 Tag: 2 Offset: 3 Value: 0b0 Hit
+	Line 0 Tag 0 Age 1
+	Line 1 Tag 2 Age 0
+	Line 2 Tag 10 Age 2
+Input 32 Read Set: 0 Tag: 4 Offset: 0 Value: 0b0 Miss
+Evict line 2
+	Line 0 Tag 0 Age 2
+	Line 1 Tag 2 Age 1
+	Line 2 Tag 4 Age 0
+Input 33 Read Set: 0 Tag: 4 Offset: 1 Value: 0b0 Hit
+	Line 0 Tag 0 Age 2
+	Line 1 Tag 2 Age 1
+	Line 2 Tag 4 Age 0
+Input 34 Read Set: 0 Tag: 4 Offset: 3 Value: 0b0 Hit
+	Line 0 Tag 0 Age 2
+	Line 1 Tag 2 Age 1
+	Line 2 Tag 4 Age 0
+Input 35 Read Set: 0 Tag: 4 Offset: 3 Value: 0b0 Hit
+	Line 0 Tag 0 Age 2
+	Line 1 Tag 2 Age 1
+	Line 2 Tag 4 Age 0
+Input 36 Read Set: 0 Tag: 6 Offset: 0 Value: 0b0 Miss
+Evict line 0
+	Line 0 Tag 6 Age 0
+	Line 1 Tag 2 Age 2
+	Line 2 Tag 4 Age 1
+Input 37 Read Set: 0 Tag: 6 Offset: 1 Value: 0b0 Hit
+	Line 0 Tag 6 Age 0
+	Line 1 Tag 2 Age 2
+	Line 2 Tag 4 Age 1
+Input 38 Read Set: 0 Tag: 6 Offset: 3 Value: 0b0 Hit
+	Line 0 Tag 6 Age 0
+	Line 1 Tag 2 Age 2
+	Line 2 Tag 4 Age 1
+Input 39 Read Set: 0 Tag: 6 Offset: 3 Value: 0b0 Hit
+	Line 0 Tag 6 Age 0
+	Line 1 Tag 2 Age 2
+	Line 2 Tag 4 Age 1
+Input 40 Read Set: 0 Tag: 8 Offset: 0 Value: 0b0 Miss
+Evict line 1
+	Line 0 Tag 6 Age 1
+	Line 1 Tag 8 Age 0
+	Line 2 Tag 4 Age 2
+Input 41 Read Set: 0 Tag: 8 Offset: 1 Value: 0b0 Hit
+	Line 0 Tag 6 Age 1
+	Line 1 Tag 8 Age 0
+	Line 2 Tag 4 Age 2
+Input 42 Read Set: 0 Tag: 8 Offset: 3 Value: 0b0 Hit
+	Line 0 Tag 6 Age 1
+	Line 1 Tag 8 Age 0
+	Line 2 Tag 4 Age 2
+Input 43 Read Set: 0 Tag: 8 Offset: 3 Value: 0b0 Hit
+	Line 0 Tag 6 Age 1
+	Line 1 Tag 8 Age 0
+	Line 2 Tag 4 Age 2
+Input 44 Read Set: 0 Tag: 10 Offset: 0 Value: 0b0 Miss
+Evict line 2
+	Line 0 Tag 6 Age 2
+	Line 1 Tag 8 Age 1
+	Line 2 Tag 10 Age 0
+Input 45 Read Set: 0 Tag: 10 Offset: 1 Value: 0b0 Hit
+	Line 0 Tag 6 Age 2
+	Line 1 Tag 8 Age 1
+	Line 2 Tag 10 Age 0
+Input 46 Read Set: 0 Tag: 10 Offset: 3 Value: 0b0 Hit
+	Line 0 Tag 6 Age 2
+	Line 1 Tag 8 Age 1
+	Line 2 Tag 10 Age 0
+Input 47 Read Set: 0 Tag: 10 Offset: 3 Value: 0b0 Hit
+	Line 0 Tag 6 Age 2
+	Line 1 Tag 8 Age 1
+	Line 2 Tag 10 Age 0
+Input 48 Nop Set: 0 Tag: 0 Offset: 0 Value: 0b0 
+Input 49 Done Set: 0 Tag: 0 Offset: 0 Value: 0b0 
+Total hits: 36 Total Misses: 12
